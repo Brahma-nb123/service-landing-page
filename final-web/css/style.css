@@ -1,0 +1,397 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+/* nav-bar section start  */
+.content-padding {
+  padding-top: 5px;
+  padding-right: 70px;
+  font-size: 16px !important;
+  color: rgb(17, 16, 16) !important;
+}
+
+.navbar-nav:hover {
+  color: rgb(26, 26, 127);
+}
+
+.content-icons {
+  margin-left: 37px;
+  list-style: none;
+}
+
+.navbar-collapse {
+  flex-basis: initial;
+  flex-grow: initial;
+
+}
+
+.icons {
+  padding-left: 25px;
+  font-size: 25px;
+}
+
+
+
+/* main-secton */
+.lio{
+  background-color: rgba(4, 37, 146, 0.877);
+   margin-bottom: 100px;
+}
+.sty{
+  font-size: 44px;
+}
+.padding {
+  padding: 12px;
+}
+.text {
+  text-align: left;
+  padding-left: 80px;
+  padding-top: 80px;
+  color: white;
+}
+.text-1 {
+  text-align: left;
+  padding-left: 80px;
+  padding-top: 20px;
+  color: white;
+}
+.para{
+  color: rgb(229, 244, 17);
+  font-size: 25px;
+}
+.btn {
+  font-size: 20px;
+  color: white;
+  background: rgba(4, 37, 146, 0.877);
+  padding: 14px 25px;
+  border-style: none;
+}
+.btn:hover{
+  box-shadow: 2px 2px 2px 2px #072772;
+}
+.btn1 {
+  margin-left: 12px;
+  font-size: 20px;
+  color: black;
+  background-color: white;
+  padding: 14px;
+  /* transform: translate(-50%,-50%); */
+  border-style: none;
+  border-radius: 4px;
+}
+.btn1:hover{
+  box-shadow: 2px 4px 2px 2px #04163e;
+}
+.image img {
+  position: relative;
+  text-align: center;
+  align-items: center;
+  padding-top: 250px;
+}
+.tetx-00{
+  padding-top: 250px;
+  width: 200px;
+  height: 200px;
+}
+
+/* <!-- FIRST PAGE ............END........ .main-section-  END  */
+
+ /* SECOND PAGE CSS............START........   */
+.hero {
+  padding-left: 70px;
+  padding-top: 40px;
+}
+.tetx-3 {
+  margin-top: 20px;
+}
+.card-warpper{
+  border: 1px solid rgb(215, 200, 200);
+  padding: 0px;
+  border-radius: 4px;
+  width: 240px;
+  width: 240px;
+  object-fit: cover;
+}
+.deo {
+  padding: 20px;
+}
+.seo{
+  margin-bottom: 20px;
+}
+
+.btn-45 {
+  margin-top: 50px;
+  margin-left: 50%;
+  background-color: rgb(235, 162, 66);
+  padding: 8px 20px;
+  border-radius: 4px;
+  border-style: none;
+  transform: translate(-50%,-50%);
+}
+.btn-45:hover{
+  background-color: rgb(214, 133, 27);
+  box-shadow: 5px 5px 5px 5px #d7d1d1;
+}
+
+#core1:hover{
+  box-shadow:2px 1px 1px 2px #d7d1d1;
+  }
+/* <!-- SECOND PAGE css............END........  --> */
+
+/* THIRD PAGE ..........START...........  -- */
+.third-section{
+  background-color: whitesmoke;
+  margin-top: 50px;
+}
+
+.tetx-55{
+  padding-top: 80px;
+}
+.tp{
+  margin-bottom: 50px;
+}
+.top{
+  padding-top: 30px;
+  margin-bottom: 80px;
+}
+.card{
+  width: 100%;
+  height: 100%;
+  border-top: 3px   solid #000;
+}
+.icons{
+  text-align: center;
+  padding: 10px 0px;
+}
+/* .icons:hover{
+  color:  rgb(65, 9, 186);
+} */
+.card-body{
+  padding: 40px;
+  color: rgba(39, 34, 34, 0.724);
+}
+.card-title{
+  font-size: 23px;
+}
+.card-btn{
+  padding: 0px 27px 27px;
+  color: #000;
+}
+.btn-46{
+  background: rgb(255, 255, 255); 
+border-radius: 2px; 
+padding: 8px 10px;
+border-style:none ;
+}
+.btn-46:hover{
+  background: rgb(246, 243, 243); 
+}
+
+/* .ee{
+  background: rgb(255, 255, 255); 
+border-radius: 2px; 
+padding: 8px 10px;
+border-style:none ;
+}
+.ee:hover{
+  background: rgb(246, 243, 243); 
+} */
+.card:hover{
+  border-top: 3px   solid rgb(97, 31, 239);
+  box-shadow:2px 2px 2px 2px #d7d1d1;
+  color: #3263d4;
+}
+
+/* forth page css.......start.....  */
+.section-page{
+  margin-bottom: 60px;
+}
+.tetx-88{
+  text-align: left;
+}
+.carousel-item{
+  width: 100%;
+  margin: 0;
+}
+.forth-last-sec{
+  margin: 90px 0px;
+  background-color: rgba(4, 37, 146, 0.877);
+}
+.text-22{
+  text-align: center;
+ margin-top:75px;
+ margin-bottom: 50px;
+}
+.text-a{
+  color: aliceblue;
+  font-size: 2rem;
+}
+.text-b{
+  color: aliceblue;
+  font-size: 16px;
+}
+.text-23{
+  text-align: center;
+  margin-bottom: 80px;
+  margin-top: 0px;
+}
+.btn-23{
+  background-color: rgb(235, 162, 66);
+  padding: 11px 15px;
+  border-style: none;
+  border-radius: 10px;
+}
+.btn-23:hover{
+  background-color: rgb(214, 133, 27);
+}
+.card1{
+  width: 100%;
+  height: 100%;
+  border-top:1px solid rgb(231, 222, 222);
+  border-left: 1px solid rgb(231, 222, 222);
+  border-right: 1px solid rgb(231, 222, 222);
+  border-bottom:1px solid #000;
+  border-radius: 12px;
+}
+  .card-body1{
+    text-align: center;
+    padding: 40px;
+    color:#000;
+  }
+  .card-title1{
+    font-size: 23px;
+  }
+  .card-body1:hover{
+    border-bottom:1px solid #000;
+    box-shadow: 2px 2px 2px 2px #d7d1d1;
+    border-radius: 12px;
+  }
+  .btn-65{
+    background-color: rgb(235, 162, 66);
+    padding: 11px 15px;
+    border-style: none;
+    border-radius: 10px;
+
+  }
+  .btn-65:hover{
+    background-color: rgb(214, 133, 27);
+  }
+/* 5th page .......end.....  */
+
+
+/* 6th page start  .......css  */
+.six-setion{
+  margin: 100px!important;
+}
+
+.text_field{
+  position: relative;
+  border-bottom: 2px solid rgb(37, 33, 33);
+  margin: 30px 0;
+}
+.text_field input{
+  width: 100%;
+  padding: 0 5px;
+  height: 40px;
+  font-size: 19px;
+  border: none;
+  background: none;
+  outline: none;
+  color: rgb(22, 24, 25);
+}
+.text_field label{
+  position: absolute;
+  top: 50%;
+  left: 5px;
+  color: #641111;
+  transform: translatey(-50%);
+  font-size: 16px;
+  pointer-events: none;
+  transition: .5s;
+}
+.text_field span::before{
+  content: '';
+  position: absolute;
+  top: 40px;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background-color: blue;
+
+}
+.text_field input:focus ~ label,
+.text_field input:valid ~ label{
+top: -5px;
+}
+.login{
+  width:100px;
+  height:100px;
+  font-size: 20px;
+  border-radius: 50% ;
+  background-color: rgb(243, 240, 240);
+  transition:.5s;
+  padding: 25px;
+  margin-bottom: 50px;
+}
+.login:hover{
+  background-color: rgb(107, 105, 105);
+}
+/* 6th page end  .......css  */
+/* 7th page css...... start */
+.l-sec{
+  margin-top: 80px;
+  background: #000;
+  color: white;
+}
+.text-99{
+  text-align: left;
+  padding-top: 25px;
+}
+.border-1{
+  border-bottom:3px solid yellow ;
+  width: 109px;
+}
+.size-1{
+  font-size: 13px;
+  padding: 10px 0px;
+}
+.l-btn{
+  background-color: rgb(235, 162, 66);
+  padding:10px 15px;
+  border-radius: 10px;
+}
+.tetx-100{
+  text-align: left;
+  padding-top: 25px;
+  
+}
+.border-2{
+  border-bottom:3px solid yellow ;
+  width: 102px;
+
+}
+.size-2{
+  font-size: 12px;
+}
+.text-101{
+  text-align: left;
+  padding-top: 25px;
+}
+.border-3{
+  border-bottom:3px solid yellow ;
+  width: 140px;
+}
+.size-3{
+  font-size: 13px;
+}
+.l-btn:hover{
+  background-color: rgb(214, 133, 27);
+
+}
+
+/* 7th page css...... end */
